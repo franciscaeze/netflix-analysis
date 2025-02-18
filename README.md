@@ -18,6 +18,6 @@ This repository contains an SQL-based analysis of Netflix content trends.
 ## **Usage**
 - Clone the repository:
   ```sh
-  git clone https://github.com/your-username/netflix-analysis.git
+  git clone https://github.com/franciscaeze/netflix-analysis.git
   ```
 - Execute the SQL queries to explore the dataset.
